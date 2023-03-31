@@ -130,5 +130,5 @@ AUTHENTICATION_BACKENDS = (
     'django_cas_ng.backends.CASBackend',
 )
 
-CAS_SERVER_URL = 'https://django-cas-ng-demo-server.herokuapp.com/cas/'
+CAS_SERVER_URL = 'http://10.200.0.43:13001/cas/'
 CAS_VERSION = '3'
