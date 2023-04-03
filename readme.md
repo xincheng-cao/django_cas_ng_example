@@ -1,6 +1,10 @@
 ## reference
 https://djangocas.dev/blog/django-cas-ng-example-project/
 
+![](./django-cas-ng-Example-Project.png)
+
+![](./cas-101-login-flow.png)
+
 https://github.com/django-cas-ng/demo-cas-server
 
 https://github.com/django-cas-ng/django-cas-ng
